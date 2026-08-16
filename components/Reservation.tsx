@@ -90,7 +90,7 @@ export default function Reservation() {
                 type="text"
                 value={form.name}
                 onChange={(e) => update("name", e.target.value)}
-                placeholder="Ex : Alexandre Mouloubou"
+                placeholder="Ex : Edouard"
                 className="w-full rounded-sm border border-gold/25 bg-wood/40 px-4 py-3 font-body text-cream placeholder:text-cream/35 focus:border-gold focus:outline-none"
               />
             </div>
