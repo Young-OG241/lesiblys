@@ -64,7 +64,7 @@ export const MENU: MenuCategory[] = [
           { name: "Salade du Chef", price: 3500, image: "/images/dishes/salade-du-chef.jpg" },
           { name: "Salade Poulet", price: 3500, image: "/images/dishes/sp.jpg" },
           { name: "Steak Salade", price: 4000, image: "/images/dishes/steak-salade.jpg" },
-          { name: "Suprême Bacon", price: 4500, image: "/images/dishes/supreme-bacon.jpg" },
+          { name: "Suprême Bacon", price: 4500, image: "/images/dishes/sb.jpg" },
           { name: "Salade Avocat Crevettes", price: 4500, image: "/images/dishes/salade-avocat-crevettes.jpg" }
         ]
       }
